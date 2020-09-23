@@ -20,7 +20,8 @@ beyonce.get_married("Jay-Z")
 puts beyonce.name
 
 
-class PartnerError < StandardError
+class PartnerError < 
+  StandardError
 end
 end
 
